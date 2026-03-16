@@ -2,7 +2,7 @@ package gocovutil
 
 import (
 	"encoding/json"
-	"github.com/axw/gocov"
+	"github.com/hangyu629/gocov"
 	"io/ioutil"
 	"os"
 	"sort"

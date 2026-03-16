@@ -1,12 +1,21 @@
+# Acknowledgments
+This project is a fork of github.com/axw/gocov, originally created by The Gocov Authors.
+
+Changes from the original:
+* Upgraded Go version to 1.24.7
+* Updated dependencies (golang.org/x/tools, etc.)
+
+The original project is licensed under MIT and BSD-3-Clause. See LICENSE for details.
+
 # gocov
 
 Coverage reporting tool for The Go Programming Language
 
-[![Build Status](https://travis-ci.org/axw/gocov.svg?branch=master)](https://travis-ci.org/axw/gocov)
+[![Build Status](https://travis-ci.org/hangyu629/gocov.svg?branch=master)](https://travis-ci.org/hangyu629/gocov)
 
 ## Installation
 
-```go install github.com/axw/gocov/gocov@latest```
+```go install github.com/hangyu629/gocov/gocov@latest```
 
 ## Usage
 
